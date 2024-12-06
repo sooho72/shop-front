@@ -1,0 +1,11 @@
+.custom-card {
+    width: 350px;
+    max-width: 100%;
+}
+.user-icon {
+    font-size: 100px;
+    color: lightskyblue;
+}
+.form label {
+    text-indent: 10px;
+}
